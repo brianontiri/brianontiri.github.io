@@ -1,19 +1,41 @@
 h1 {
-  color: red;
+  color:white;
   text-align:center;
-}
-h1 {
   font-style: italic;
 }
 p {
   font-family: sans-serif;
+  color:yellow;
+  margin-left:100px;
 }
 
-ul {
+ol {
   font-size: 20px;
   line-height: 30px;
+  color:white;
+  margin-left: 120px;
 }
 body{
   color:black;
-  background-image: url(ss.jpg);
+  background-image: url(m.jpeg);
+}
+h2{
+  color:green;
+  margin-left: 500px;
+}
+img{
+  margin-left:300px;
+}
+h5{
+  margin-left: 500px;
+  color:white;
+  font-style: oblique;
+  font-stretch: extra-expanded;
+}
+h4{
+  margin-left: 400px;
+}
+h3{
+  margin-left: 400px;
+
 }
