@@ -4,3 +4,4 @@
 ## project set up instructions
 #### install portfolio by cloning this repository
 ## link to git hub
+#### https://github.com/brianontiri/brianontiri.github.io.git
